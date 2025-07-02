@@ -1,8 +1,8 @@
 # Week 1–2 Learning Notes
 
-## Topic: SOC Tier Levels Explained (SANS Blog)
+## Topic: How to Become a SOC Analyst (SANS Blog)
 **Date Read**: 2025-07-02  
-[Read Here](https://www.sans.org/blog/defining-the-different-tiers-of-soc-analysts/)
+[Read Here](https://www.sans.org/blog/how-to-become-a-soc-analyst/)
 
 ### Summary:
 - **Tier 1** = Alert triage, monitoring, initial investigation
