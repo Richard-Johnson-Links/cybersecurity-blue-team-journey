@@ -19,7 +19,7 @@
 
 ## Topic: TryHackMe – SOC Level 1 Room
 **Completed**: 2025-07-02  
-[Room Link](https://tryhackme.com/room/introtoSOC)
+[Room Link](https://tryhackme.com/room/socfundamentals)
 
 ### Summary:
 - Covered SOC roles, log types, SIEM tools, and alert handling
