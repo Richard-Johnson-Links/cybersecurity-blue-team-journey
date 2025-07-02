@@ -4,8 +4,6 @@ Welcome, I'm Richard Johnson(Links) and I'm transitioning from an IT Help Desk r
 
 This repository documents my learning journey through hands-on labs, projects, and research.
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/richard-johnson106/)
-
 ---
 
 ## Goals
@@ -22,8 +20,6 @@ This repository documents my learning journey through hands-on labs, projects, a
 | Week | Focus                    | Status      |
 |------|--------------------------|-------------|
 | 1-2  | Log Analysis Basics      | 🔄 In Progress |
-| 3-4  | SIEM Tools & Sysmon      | ⏳ Coming Soon |
-| 5-6  | Incident Response Basics | ⏳ Coming Soon |
 
 ---
 
@@ -41,18 +37,28 @@ cybersecurity-blue-team-journey/
 
 ---
 
-## Tools I'll Be Using
-
+## Tools & Platforms Used
 - Windows Event Viewer & Sysmon
-- Linux logging (`journalctl`, `auth.log`)
+- Linux log tools (journalctl, grep, auth.log)
 - Splunk & ELK Stack
 - Wireshark, Zeek
-- TryHackMe, CyberDefenders
+- TryHackMe, CyberDefenders, Blue Team Labs Online
+
+---
+
+## Progress Highlights
+
+- Passed **CompTIA Security+**
+- Built a working VM lab with Linux Mint, Windows 10, and Splunk
+- Analyzed authentication logs to detect suspicious logins
+- Wrote Python/Bash scripts to parse and alert on log data
 
 ---
 
 ## Notes
 
 This is a live work-in-progress. All examples and logs are generated from lab environments only—no sensitive data is included.
+
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/richard-johnson106/)**  
 
 Thanks for stopping by! 💙
