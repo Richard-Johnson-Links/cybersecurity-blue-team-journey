@@ -4,6 +4,8 @@ Welcome, I'm Richard Johnson(Links) and I'm transitioning from an IT Help Desk r
 
 This repository documents my learning journey through hands-on labs, projects, and research.
 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/richard-johnson106/)
+
 ---
 
 ## Goals
