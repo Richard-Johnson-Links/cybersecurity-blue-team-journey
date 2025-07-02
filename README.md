@@ -27,12 +27,7 @@ This repository documents my learning journey through hands-on labs, projects, a
 
 ## Repo Structure
 
-cybersecurity-blue-team-journey/
-├── README.md
-├── week01-02-log-analysis/
-│ └── (Windows & Linux log analysis)
-├── week03-04-siem-tools/
-│ └── (Splunk setup and searches)
+``` cybersecurity-blue-team-journey/ ├── README.md ├── week01-02-log-analysis/ │ └── (Windows & Linux log analysis) ├── week03-04-siem-tools/ │ └── (Splunk setup and searches) ... ``` </pre>
 
 ---
 
