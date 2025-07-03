@@ -1,4 +1,4 @@
-# Week 1–2 Learning Notes
+# Day 1 Learning Notes
 
 ## Topic: How to Become a SOC Analyst (SANS Blog)
 **Date Read**: 2025-07-02  
